@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "rgb_tft[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[5]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[6]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[8]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[9]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[10]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[11]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[12]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[13]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[14]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_tft[15]",
+					"strict" : false
+				},
+				{
+					"name" : "horizontal_sync",
+					"strict" : false
+				},
+				{
+					"name" : "vertical_sync",
+					"strict" : false
+				},
+				{
+					"name" : "tft_data_enable",
+					"strict" : false
+				},
+				{
+					"name" : "tft_background_light",
+					"strict" : false
+				},
+				{
+					"name" : "system_reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "system_clock",
+					"strict" : false
+				},
+				{
+					"name" : "uart_rx",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

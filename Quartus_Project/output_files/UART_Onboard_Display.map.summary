@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Aug 15 23:46:01 2025
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : UART_Onboard_Display
+Top-level Entity Name : top_file
+Family : Cyclone IV E
+Total logic elements : 832
+    Total combinational functions : 742
+    Dedicated logic registers : 162
+Total registers : 162
+Total pins : 24
+Total virtual pins : 0
+Total memory bits : 7,040
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at tft_control.v(8): object "horizontal_sync" differs only in case from object "HORIZONTAL_SYNC" in the same scope File: D:/TylerHong/Development/GitHub_Project/FPGA/UART_Onboard_Display/RTL/tft_control.v Line: 8
+Info (10281): Verilog HDL Declaration information at tft_control.v(9): object "vertical_sync" differs only in case from object "VERTICAL_SYNC" in the same scope File: D:/TylerHong/Development/GitHub_Project/FPGA/UART_Onboard_Display/RTL/tft_control.v Line: 9
