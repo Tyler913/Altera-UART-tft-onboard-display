@@ -125,23 +125,9 @@ The project supports the following 55 characters:
 ### Development Environment
 
 - **FPGA Development Tool**: Intel Quartus Prime
-- **Simulation Tool**: ModelSim (optional)
-- **Hardware Debug**: SignalTap II Logic Analyzer (optional)
 - **Version Control**: Git
 
 ---
-
-## License
-
-This project is open source. Please refer to the license file for specific terms.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues and pull requests.
-
-## Contact
-
-If you have any questions or suggestions, please create an issue in the GitHub repository.
 
 
 ## 中文说明
@@ -265,6 +251,4 @@ Altera-UART-tft-onboard-display/
 ### 开发环境
 
 - **FPGA开发工具**：Intel Quartus Prime
-- **仿真工具**：ModelSim（可选）
-- **硬件调试**：SignalTap II Logic Analyzer（可选）
 - **版本控制**：Git
