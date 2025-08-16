@@ -1,4 +1,4 @@
-Altera UART TFT Onboard Display Project
+# Altera UART TFT Onboard Display Project
 
 [中文](#中文说明) | [English](#english-description)
 
